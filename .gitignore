@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.bundle/
+config.json
+
+exports/
+data/
+*.sqlite3
+.env
